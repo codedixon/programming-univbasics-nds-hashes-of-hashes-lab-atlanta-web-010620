@@ -32,9 +32,9 @@
 
 def naming_system
   HoH = {
-    PORTION_1
-    PORTION_2
-    PORTION_3
+    PORTION_1,
+    PORTION_2,
+    PORTION_3,
     PORTION_4
   }
 return HoH
