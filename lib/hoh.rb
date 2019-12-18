@@ -40,7 +40,7 @@ PORTION_1 = {
     sub_category: {
       label: "Class"
     }
-  }
+  
 }
 #PORTION_2 = {
  # label: "Order"
