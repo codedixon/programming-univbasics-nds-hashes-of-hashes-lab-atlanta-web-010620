@@ -31,5 +31,11 @@
  }
 
 def naming_system
-return PORTION_1
+  HoH = {
+    PORTION_1
+    PORTION_2
+    PORTION_3
+    PORTION_4
+  }
+return HoH
 end
