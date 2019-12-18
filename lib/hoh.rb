@@ -33,7 +33,7 @@
   
 def naming_system
   starting_node = {
-    :label => "Kingdom",
+    label: "Kingdom",
     :sub_category => {
       :label => "Phylum",
       :sub_category => {
