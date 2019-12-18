@@ -55,11 +55,6 @@ PORTION_1 = {
  # label: "Species",
   #sub_category: nil
 #}
-HoH = {
-  PORTION_1,
-  #PORTION_2,
-  #PORTION_3,
- # PORTION_4
-}
-return HoH
+
+return PORTION_1
 end
