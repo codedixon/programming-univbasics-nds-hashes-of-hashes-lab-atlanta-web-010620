@@ -30,12 +30,13 @@
    sub_category: nil
  }
 
-def naming_system
-  HoH = {
+HoH = {
     PORTION_1,
     PORTION_2,
     PORTION_3,
     PORTION_4
   }
+  
+def naming_system
 return HoH
 end
